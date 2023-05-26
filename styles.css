@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(Roboto-Medium.ttf);
+}
 button {
     background-color: #D0BCFF;
     border: none;
