@@ -15,14 +15,14 @@ button {
     border-radius: 25px;
     font-family: 'Roboto', sans-serif;
     width:auto;
-    margin:auto;
+    margin: 5px;;
     }
     
 body {
     background-color:#1C1B1F;
     color: white;
-    word-break: break-all;
     font-family: 'Roboto', sans-serif;
+    hyphens: auto;
     }
     
 h1 {
