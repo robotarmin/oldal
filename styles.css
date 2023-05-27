@@ -4,7 +4,7 @@
 }
 button {
     background-color: #D0BCFF;
-    border: none;
+    border: 2 px solid #D0BCFF;
     color: #381E72;
     padding: 15px 32px;
     text-align: center;
