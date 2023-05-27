@@ -19,17 +19,18 @@ button {
     margin-right:30%;
     margin-top:10px;
     margin-bottom:10px;
-    word-break: normal;
+    overflow-wrap: unset;
+    word-break: unset;
     }
     
-    body {
+body {
     background-color:#1C1B1F;
     color: white;
     word-break: break-all;
     font-family: 'Roboto', sans-serif;
     }
     
-    h1 {
+h1 {
     color: #EFB8C8;
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -37,26 +38,26 @@ button {
     padding-bottom: 20px;
     }
     
-    img {
+img {
     border-radius: 25px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
 
-    p {
+p {
     text-align: center;
     margin-left:auto;
     margin-right:auto;
     font-family: 'Roboto', sans-serif;
     }
     
-    container {
+container {
     height:10%;
     position:relative
     }
 
-    verticalcontainer{
+verticalcontainer{
     margin: 0;
     position: absolute;
     top: 50%;
