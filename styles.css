@@ -19,8 +19,7 @@ button {
     margin-right:30%;
     margin-top:10px;
     margin-bottom:10px;
-    overflow-wrap: unset;
-    word-break: unset;
+    hyphens: auto;
     }
     
 body {
