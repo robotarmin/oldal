@@ -16,6 +16,7 @@ button {
     font-family: 'Roboto', sans-serif;
     width:auto;
     margin: 5px;;
+    hyphens: auto;
     }
     
 body {
